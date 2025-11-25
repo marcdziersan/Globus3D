@@ -1,4 +1,3 @@
-````markdown
 # Globus3D – JavaFX 3D Earth–Moon–ISS Simulation
 
 Globus3D ist ein kleines, in reinem Java / JavaFX geschriebenes Lernprojekt.  
