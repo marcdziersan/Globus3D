@@ -206,5 +206,3 @@ Du kannst den üblichen MIT-Lizenztext entweder in eine separate Datei `LICENSE`
 > furnished to do so, subject to the following conditions:
 >
 > (… vollständiger MIT-Text …)
-
-Für ein öffentliches GitHub-Repository empfiehlt sich eine eigene `LICENSE`-Datei, damit GitHub die Lizenz automatisch erkennt.
